@@ -3,28 +3,28 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: ᲐᲕᲗᲐᲜᲓᲘᲚ ᲤᲐᲜᲒᲐᲜᲘ
+    tagline: ᲞᲠᲝᲒᲠᲐᲛᲘᲡᲢᲘ, ᲢᲔᲥᲜᲝᲚᲝᲒᲘᲔᲑᲘᲡ ᲢᲠᲔᲜᲔᲠᲘ
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: trainer@din.ge
+    phone: +995 591 011 018
+    timezone: Asia/Tbilisi
+    citizenship: ᲡᲐᲥᲐᲠᲗᲕᲔᲚᲝ
+    website: avto.din.ge #do not add http://
+    linkedin: 
+    xing: 
+    github: avtotrainer
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,22 +33,22 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: ᲘᲜᲒᲚᲘᲡᲣᲠᲘ
           level: Native
 
-        - idiom: French
+        - idiom: ᲠᲣᲡᲣᲚᲘ
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: ᲥᲐᲠᲗᲣᲚᲘ
+          level: ᲛᲨᲝᲑᲚᲘᲣᲠᲘ
 
     interests:
-      title: Interests
+      title: ᲘᲜᲢᲔᲠᲔᲡᲔᲑᲘ
       info:
-        - item: Climbing
+        - item: ᲘᲡᲢᲝᲠᲘᲐ
           link:
 
-        - item: Snowboarding
+        - item: ᲔᲗᲜᲝᲒᲔᲜᲔᲖᲘᲡᲘ
           link:
 
         - item: Cooking
@@ -64,7 +64,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: ᲒᲐᲜᲐᲗᲚᲔᲑᲐ
     info:
       - degree: MSc in Computer Science
         university: University of London
@@ -90,7 +90,7 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: ᲒᲐᲛᲝᲪᲓᲘᲚᲔᲑᲐ
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -131,7 +131,7 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: ᲡᲔᲠᲗᲘᲤᲘᲙᲐᲢᲔᲑᲘ
       list:
         - name: CV Builder
           start: 2020
@@ -172,7 +172,7 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: ᲞᲠᲝᲔᲥᲢᲔᲑᲘ
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -218,7 +218,7 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: ᲞᲣᲑᲚᲘᲙᲐᲪᲘᲔᲑᲘ
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -240,7 +240,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: ᲣᲜᲐᲠᲔᲑᲘ &amp; ᲩᲕᲔᲕᲔᲑᲘ
 
     toolset:
       - name: Python & Django
